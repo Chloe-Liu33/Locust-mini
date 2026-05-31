@@ -1,5 +1,5 @@
 # Locust-mini
-the dataset of locust-mini\
+the dataset of locust-mini, including images of camouflaged locusts and similar insects\
 
 [trainset link](https://drive.google.com/drive/folders/1MCLtYOzBNVjeUM2jjHdpBwfU4kj_ywei?usp=drive_link)\
 
